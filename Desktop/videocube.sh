@@ -1,5 +1,5 @@
 #/bin/bash
-cd cd /opt/vc/src/hello_pi/hello_videocube
+cd /opt/vc/src/hello_pi/hello_videocube
 sudo ./hello_videocube.bin ; sleep 5;exit
 
 
